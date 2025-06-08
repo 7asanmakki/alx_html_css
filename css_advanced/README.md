@@ -16,5 +16,3 @@ Welcome to the SmileSchool homepage project, a responsive and visually engaging 
 - [Figma Project](https://www.figma.com/design/GYHXmOcHuS2VsngbW96vyF/Homepage-alx?node-id=0-1&t=5I6F2aIu7SK7cEEm-1)
 - Font: [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro), [Spin-Cycle-OT (Download)](https://www.cufonfonts.com/font/spin-cycle-ot)
 
-## 📂 Project Structure
-
