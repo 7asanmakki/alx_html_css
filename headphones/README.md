@@ -4,8 +4,6 @@
 
 This project is a **responsive, accessible, mobile-first landing page** built using only **HTML and CSS**. It is a clone of a Figma design provided by ALX as part of the **HTML & CSS block** of the ALX Front-End Program.
 
-> 💡 Designed by Nicolas Philippot (UI/UX Designer)
-
 ---
 
 ## 🎯 Objectives
